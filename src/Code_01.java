@@ -1,6 +1,7 @@
+// ---- JFrame ----
+
 import javax.swing.*;
 import java.awt.*;
-// ---- JFrame ----
 
 public class Code_01 {
     public static void main(String[] args) {
